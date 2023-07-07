@@ -1,0 +1,22 @@
+1	Performing matrix multiplication and finding eigen vectors and eigen values using TensorFlow - prac-1.py
+
+2	Solving XOR problem using deep feed forward network. - prac-2.py
+
+3	Implementing deep neural network for performing binary classification task. - prac-3.py
+
+4	a) Aim: Using deep feed forward network with two hidden layers for performing multiclass classification and predicting the class.  - prac-4-a.py
+	b) Aim: Using a deep feed forward network with two hidden layers for performing classification and predicting the probability of class. - prac-4-b.py
+	c) Aim: Using a deep feed forward network with two hidden layers for performing linear regression and predicting values. - prac-4-c.py
+	
+5	a) Evaluating feed forward deep network for regression using KFold cross validation. - prac-5-a.py
+	b) Evaluating feed forward deep network for multiclass Classification using KFold cross-validation. - prac-5-b.py
+
+6	Implementing regularization to avoid overfitting in binary classification. - prac-6-i.py - prac-6-ii.py - prac-6-iii.py
+
+7	Demonstrate recurrent neural network that learns to perform sequence analysis for stock price. - prac-7.py
+
+8	Performing encoding and decoding of images using deep autoencoder. - prac-8.py
+
+9	Implementation of convolutional neural network to predict numbers from number images - prac-9.py
+
+10	Denoising of images using autoencoder. - prac-10.py
