@@ -1,9 +1,11 @@
 #Aim: Evaluating feed forward deep network for multiclass Classification using KFold cross-validation.
+#this has alternate version in prac-5-b-alternate.py
 
 #loading libraries
 import pandas
 from keras.models import Sequential
 from keras.layers import Dense
+#tensorflow.keras.wrappers.scikit_learn
 from keras.wrappers.scikit_learn import KerasClassifier
 from keras.utils import np_utils
 from sklearn.model_selection import cross_val_score

@@ -1,9 +1,9 @@
 #Aim: Evaluating feed forward deep network for regression using KFold cross validation.
-#this has alternate version in prac-5-b-alternate.py
 
 import pandas as pd
 from keras.models import Sequential
 from keras.layers import Dense
+#tensorflow.keras.wrappers.scikit_learn
 from keras.wrappers.scikit_learn import KerasRegressor
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import KFold
